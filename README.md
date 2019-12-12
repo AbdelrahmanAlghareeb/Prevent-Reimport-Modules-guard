@@ -1,6 +1,6 @@
 # ImportGuard
 
-This demo include the 2 ways to prevent a module (named core module in this demo) from being Reimported
+This demo include the 2 ways to prevent a module from being Reimported
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
